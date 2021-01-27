@@ -1,6 +1,7 @@
+.idea
 /vendor/
 /wp/*
 /db/
-/plugins/*
+/plugins
 !/plugins/asset-management/
 /themes/
