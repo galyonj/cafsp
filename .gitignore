@@ -1,0 +1,6 @@
+/vendor/
+/wp/*
+/db/
+/plugins/*
+!/plugins/asset-management/
+/themes/
